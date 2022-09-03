@@ -9,7 +9,7 @@ Automate flows. If I were using Python, I would use the same commands and a simi
 format to this module to create my own solutions.
 
 The procedure is similar for each cognitive service. The ones that require user data 
-for training like Azure Custom Vision have a portal to upload images, etc. for training.
+for training like Azure Custom Vision have a portal to upload images, etc.
 
 1. Create a general cognitive service resource and show the keys and endpoint. 
 Alternatively, I can create a specific language resource.
