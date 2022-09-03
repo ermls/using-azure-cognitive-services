@@ -1,5 +1,5 @@
 # using-azure-cognitive-services
-Showing how to set up and consume cognitive services
+Showing how to set up and consume cognitive services.
 
 Here I go through Microsoft Learn’s “Extract Insights from text with the Language service”
 training module to demonstrate my ability to use Azure Cognitive Services.
