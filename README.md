@@ -24,8 +24,8 @@ Alternatively, I can create a specific language resource.
 
 ![Python Env Code](https://user-images.githubusercontent.com/83891373/188251596-d9f6870a-bf28-482a-8f29-9a84c447013f.jpg)
 
-3. Import the .env variables from the previous step and use them to create a text
-analytics client from the general cognitive service resource.
+3. Use the .env variables from the previous step and to create a text analytics 
+client from the general cognitive service resource.
 
 ![Python Initialize Code](https://user-images.githubusercontent.com/83891373/188251600-e7a85ffe-f199-48e4-9dc1-eb5c09ba06dd.jpg)
 
